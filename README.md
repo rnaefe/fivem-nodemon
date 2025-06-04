@@ -68,4 +68,4 @@ This tool is open source and created for the FiveM developer community.
 
 Feel free to submit issues or pull requests to contribute.
 
-For contact [## Contact](https://daglarefe.com)
+For contact [daglarefe.com](https://daglarefe.com)
